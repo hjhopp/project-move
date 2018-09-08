@@ -32,7 +32,7 @@ Consists of three programs:
 * Reminders
 * Inspiration
   * Links to Cali Move, ThenX, Bodyweight Warrior videos
-* Comprehensive mirroring of the Reddit FAQ
+* Comprehensive mirroring of the /r/bodyweightfitness [FAQ](https://www.reddit.com/r/bodyweightfitness/wiki/faq) and [Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index)
 * Achievements
   * What makes the achievements worthwhile? If this gained traction, it could be badges on the sub.
   * This could be abused.
