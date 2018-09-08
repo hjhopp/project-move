@@ -10,7 +10,7 @@ Consists of three programs:
 
 ## QUALITIES
 
-Things I like about the current BWF app:
+### Things I like about the current BWF app
 
 * Easy to change progressions
 * GIFs to illustrate movements
@@ -19,14 +19,14 @@ Things I like about the current BWF app:
 * Easy to use
 * There are different routines listed (Mobility, etc), but it took me over a year of using the app to realize it was there
 
-Things I don't like about the current BWF app:
+### Things I don't like about the current BWF app
 
 * Tracking is a bit lack luster
 * It's kind of ugly
 * The timer doesn't keep running if you go to a different app
 * No alarm customization
 
-Things that the current app doesn't have but may improve it:
+### Things that the current app doesn't have but may improve it
 
 * Progress photos or videos integrated with the app
 * Reminders
@@ -37,7 +37,7 @@ Things that the current app doesn't have but may improve it:
   * What makes the achievements worthwhile? If this gained traction, it could be badges on the sub.
   * This could be abused.
 
-Ideas
+### Ideas
 
 * Small questionaire when user opens app for the first time to figure out which routine would be ideal to follow
 * Make tracking better
