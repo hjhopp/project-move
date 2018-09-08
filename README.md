@@ -1,6 +1,6 @@
 # PROJECT MOVE
 
-A bodyweight fitness app that uses the new recommended routine variations.
+A bodyweight fitness app that illustrates and tracks the recommended routine variations.
 
 * The Recommended Routine ([x](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine))
 * Move ([x](https://www.reddit.com/r/bodyweightfitness/wiki/move))
