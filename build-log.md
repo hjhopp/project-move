@@ -18,3 +18,11 @@ Confused by getting started with Expo. Both `create-react-native-app` and `expo`
 
 Problem: My desktop is hooked up to ethernet, my phone to wifi. Expo needs me to be on the same Wifi connection..
 Trying to get ramped up on laptop which is able to connect to wifi.
+
+Dealing with dependency bs.
+
+Can't get app to load on expo .. what is the create-react-native app starter scripting doing?
+
+Wow, getting this started is stupid
+
+*SOLUTION* The link sent through the `npm start` script doesn't work. But, using the link sent from the desktop XDE app *does*.
