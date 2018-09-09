@@ -11,7 +11,7 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
 * [The Minimalist Routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine)
 * [Skill Day Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday)
 
-## Intermediate to Advanced
+### Intermediate to Advanced
 
 * [Antranik's Push/Pull/Legs Split](http://antranik.org/bodyweight-training/)
 * [SM's Bodyweight P/P/L](https://www.reddit.com/r/bodyweightfitness/wiki/sm/ppl)
