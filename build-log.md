@@ -31,3 +31,7 @@ Wow, getting this started is stupid
 
 Running Expo in dev mode gives warnings and the ability to do hot fixes / tweaks with immediate visibility, but the app will run slower.
 Test performance not in dev mode.
+
+## 9 September 2018
+
+More configuring eslint rules.
