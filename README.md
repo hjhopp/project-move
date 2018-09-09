@@ -2,10 +2,24 @@
 
 A bodyweight fitness app that illustrates and tracks the recommended routine variations.
 
-* The Recommended Routine ([x](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine))
-* Move ([x](https://www.reddit.com/r/bodyweightfitness/wiki/move))
-* The Minimalist Routine ([x](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine))
-* Skill Day Routine ([x](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday))
+## ROUTINES
+
+### Beginner to Intermediate
+
+* [The Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+* [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move)
+* [The Minimalist Routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine)
+* [Skill Day Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday)
+
+## Intermediate to Advanced
+
+* [Antranik's Push/Pull/Legs Split](http://antranik.org/bodyweight-training/)
+* [SM's Bodyweight P/P/L](https://www.reddit.com/r/bodyweightfitness/wiki/sm/ppl)
+* [Texas method for Bodyweight](https://www.reddit.com/r/bodyweightfitness/comments/3dhxyk/concept_wednesday_adapting_the_texas_method/)
+* [Smolov Jr for Chins and Dips](https://www.reddit.com/r/bodyweightfitness/comments/3e70kx/concept_wednesday_smolov_jr_for_weighted_chins/)
+* [Basic Hypertrophy Routine](https://www.reddit.com/r/bodyweightfitness/comments/821o5o/bobs_basic_bwf_bhypertrophy_broutine/)
+* [Jokester's Bodyweight Plus](https://www.reddit.com/r/bodyweightfitness/wiki/bwplus)
+* [Jokester's Bodyweight PPL](https://www.reddit.com/r/bodyweightfitness/wiki/move/phase5/bwppl)
 
 ## QUALITIES
 
@@ -68,7 +82,7 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
 
 ## MVP
 
-* Go through the routines outlined above
+* Go through the beginner/intermediate routines outlined above
   * Every movement has a
     * timer / rep count
     * animation

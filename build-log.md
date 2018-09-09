@@ -26,3 +26,8 @@ Can't get app to load on expo .. what is the create-react-native app starter scr
 Wow, getting this started is stupid
 
 *SOLUTION* The link sent through the `npm start` script doesn't work. But, using the link sent from the desktop XDE app *does*.
+
+### Notes
+
+Running Expo in dev mode gives warnings and the ability to do hot fixes / tweaks with immediate visibility, but the app will run slower.
+Test performance not in dev mode.
