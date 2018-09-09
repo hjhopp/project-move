@@ -42,7 +42,8 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
 * Make tracking better
   * research work out or habit tracking apps that do this well
 * Reminders for the special days on reddit, e.g. Form Check Fridays or Sunday Show Off
-  * Althernatively, spotlights from each
+  * Alternatively, spotlights from each
+    * Consent?
   * Fitness transformation spotlight for those who post after a year
 
 ## IDEALS
