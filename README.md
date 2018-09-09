@@ -55,6 +55,16 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
 ## TECH
 
 * React Native
+  * Expo.io for development
+* Waffle.io for issue tracking
+
+### Personal goals
+
+* Learn React Native
+* Learn how to deploy a viable product for a real public audience
+* Learn how to write testable code
+* Learn how to write tests
+* Make a cool app
 
 ## MVP
 
