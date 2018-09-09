@@ -54,3 +54,13 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
 ## TECH
 
 * React Native
+
+### MVP
+
+* Go through the routines outlined above
+  * Every movement has a
+    * timer / rep count
+    * animation
+    * progression selection
+    * reference to the section in the wiki
+* You can select what routine you want before you workout
