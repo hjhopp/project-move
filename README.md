@@ -65,6 +65,10 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
   * muscle groups being activated
   * ways you could hurt yourself if you're not careful
 * in exercises, it'd be nice to see what time / rep count you did in your last work out without having to dig for it
+* Tapping a routine blows up the button to show you the core goals of each routine
+  * Con: means the user has to tap twice to get started
+* Make it easy to update if the routines change...
+  * Is there an API to fetch FAQ data? eh, but then you'd have to be online...
 
 ## IDEALS
 
