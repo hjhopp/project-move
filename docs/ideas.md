@@ -23,3 +23,6 @@
   * Links to Cali Move, ThenX, Bodyweight Warrior videos
 * Comprehensive mirroring of the /r/bodyweightfitness [FAQ](https://www.reddit.com/r/bodyweightfitness/wiki/faq) and [Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index)
 * Achievements
+* Exercise alternatives if you can't / don't want to do the one provided
+* Combine pairs and auto swipe to the next set within a pair?
+* Progression tracker for pairs to handle the timer between sets....
