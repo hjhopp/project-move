@@ -424,3 +424,98 @@
   * Pike
   * Front Split
   * Pancake
+
+### Optional Modules
+
+* Bridging
+* Shoulder Stabilization
+* Animal Walking
+* Running
+* Grip Training
+
+# The Minimalist Routine
+
+## INFO
+
+Bare minimum routine
+
+## ROUTINE
+
+* Walking Lunges
+* Push-ups
+* Rows
+* Plank Shoulder Taps
+
+Optional
+
+* Supermans
+* Deadbugs
+* Hip Hinge
+* Squats
+* Calf Raises
+* Core exercises
+* Walking, hiking, unicycling
+
+# The Skill Day Routine
+
+## INFO
+
+### Goals
+
+* Skills
+* Mobility
+
+### Structure
+
+* Warm Up
+* Skill Work
+* Your choice of mobility
+
+## ROUTINE
+
+* Warm Up
+  * Trap-3 Raise
+  * External Rotation
+  * Serratus Wall Slides
+  * Deadbugs
+  * Wrist Mobility
+* Skill Work
+  * Handstand Progression
+    1. Wall Plank
+    2. Learn to bail
+    3. Stomach to Wall Handstand
+    4. Balancing Drills
+    5. Freestanding Practice
+    6. Kick up
+  * L-sit Progression
+    1. Foot Supported L-sit
+    2. One-Leg Foot Support L-sit
+    3. Elevated Tuck L-sit
+    4. Tuck L-sit
+    5. Advanced Tuck L-sit or One-Leg L-sit
+    6. L-sit
+* Mobility Work (pick one section)
+  * General Mobility
+    * Yuri's Banded Shoulder Drills
+    * Banded Clam Shell
+    * Hip Flexor Stretch
+    * Hamstring Stretch of Choice
+    * Shoulder Extension Stretch
+    * Shoulder Flexion Stretch
+  * Pancake Mobility
+    * Butterfly Stretch
+    * Frog Stretch
+    * Pancake Good Morning
+    * Horse Stance
+    * Swap L-sit for Straddle-sit in skill work
+  * Overhead Mobility
+    * Overhead Mobility Guide
+    * Thoracic Extensions
+    * Overhead Lift-offs
+  * Front Splits
+    * Calf Stretch
+    * Straddle Stance Good Morning
+    * Lunge Stretch
+    * Couch/Wall Stretch
+    * Long Lunge Pulses
+    * Front Split Holds
