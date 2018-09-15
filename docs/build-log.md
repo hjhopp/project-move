@@ -96,4 +96,36 @@ I have so much respect for designers now.
 
 ## 15 September 2018
 
-Outline all the assets that I need
+* Outline all the assets that I need
+
+Ok, after doing that, I have hundreds of pages... that means there will be hundreds of GIFs. How do I keep this offline, but keep storage-costs low? I want the videos to be of decent quality.
+
+Could I make it so it only loads the bare-minimum when first installed? Like more advanced exercises are in an xpac or something similar that they can choose to download or not?
+
+Researching backend tech to use...
+
+* [10 Tips to Host Your Web Apps For Free](https://blog.patricktriest.com/host-webapps-free/)
+* [Network Requests with React Native](https://facebook.github.io/react-native/docs/network)
+
+ok, so i can use fetch API with react native to get the stuff i want, at least on initial app load. I could cache locally whatever the user taps on with a time limit, so the app clears itself ... so the question is, where am i going to store the gifs? really, i could store all the information...
+
+could i try using graphQL just to learn how to use it? but then fetch might not work...
+oh nice i might be able to use it
+
+* [How to setup a React Native + GraphQL + Relay Modern](https://codeburst.io/how-to-setup-a-react-native-graphql-relay-modern-a6a5f6c18353)
+
+Heck yeah. So let's use GraphQL just to try it out, even if it doesn't give a strict advantage over a plain REST API.
+
+Backend tech.. where am I going to host everything?
+I just want somewhere to host the backend, I don't think I'll end up making a website out of this
+
+So...
+
+* Heroku
+* Firebase
+* Serverless architecture?
+* Cloudflare?
+
+Meh let's work on some basic frontend and get those v1 wireframes in physical form
+
+* Run through React Native tutorial
