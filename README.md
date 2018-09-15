@@ -59,6 +59,12 @@ A bodyweight fitness app that illustrates and tracks the recommended routine var
   * Alternatively, spotlights from each
     * Consent?
   * Fitness transformation spotlight for those who post after a year
+* Progress tracker within workout as you're doing it on the top of the exercise (like exercise 3/10),  or some indicator of getting near the end
+* timer changes color as you get closer to being done
+* in the reading section of each exercise, have diagrams of
+  * muscle groups being activated
+  * ways you could hurt yourself if you're not careful
+* in exercises, it'd be nice to see what time / rep count you did in your last work out without having to dig for it
 
 ## IDEALS
 
