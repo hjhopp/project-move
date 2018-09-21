@@ -17,18 +17,24 @@ export default class App extends React.Component {
     console.log(this);
 
     return (
-      <View style={styles.container}>
-       <Text>Hello World...</Text>
+      <View style={ styles.container }>
+       <Text style={ styles.text }>PROJECT MOVE</Text>
       </View>
     );
   }
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
+  container : {
+    flex : 1,
+    backgroundColor : '#e2e023',
+    alignItems : 'center',
+    justifyContent : 'center'
   },
+
+  text : {
+    fontSize : 50,
+    fontWeight : 'bold',
+    color : '#363636'
+  }
 });
