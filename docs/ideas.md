@@ -26,3 +26,4 @@
 * Exercise alternatives if you can't / don't want to do the one provided
 * Combine pairs and auto swipe to the next set within a pair?
 * Progression tracker for pairs to handle the timer between sets....
+* Barebones view of each routine to scroll through using SectionList
