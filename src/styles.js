@@ -12,5 +12,10 @@ export default StyleSheet.create({
     fontSize : 50,
     fontWeight : 'bold',
     color : '#363636'
+  },
+
+  input : {
+    padding : 10,
+    fontSize : 20
   }
 });
