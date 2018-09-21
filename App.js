@@ -10,16 +10,6 @@ const Greeting = (props) => {
 export default class App extends React.Component {
   constructor (props) {
     super(props);
-    this.state = {
-      isShowing : true
-    };
-    setInterval(() => {
-      this.setState((previousState) => {
-        return {
-          isShowing : !previousState.isShowing
-        };
-      });
-    }, 1000);
   }
 
   render () {
@@ -28,14 +18,7 @@ export default class App extends React.Component {
 
     return (
       <View style={styles.container}>
-        { this.state.isShowing ?
-          (
-              <Text>Hello world!</Text>
-          ) :
-          (
-            <Text>Lulz</Text>
-          )
-        }
+       <Text>Hello World...</Text>
       </View>
     );
   }
