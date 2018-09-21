@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Bananas from './src/components/Bananas';
+import styles from './src/styles';
 
 const Greeting = (props) => {
   return (
@@ -23,18 +24,3 @@ export default class App extends React.Component {
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container : {
-    flex : 1,
-    backgroundColor : '#e2e023',
-    alignItems : 'center',
-    justifyContent : 'center'
-  },
-
-  text : {
-    fontSize : 50,
-    fontWeight : 'bold',
-    color : '#363636'
-  }
-});
