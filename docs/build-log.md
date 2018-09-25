@@ -129,3 +129,14 @@ So...
 Meh let's work on some basic frontend and get those v1 wireframes in physical form
 
 * Run through React Native tutorial
+
+## 24 September 2018
+
+I did some work between the last entry and this and failed to log it.
+Mostly tutorial runs and getting familiar with React Native.
+
+My cat is being really cute right now.
+
+Right now I'm building the skeleton of my file structure.
+
+Maybe I should get a cheap android phone for development...

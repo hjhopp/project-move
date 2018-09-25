@@ -7,7 +7,12 @@ import {
   Button,
   Alert
 } from 'react-native';
-import Bananas from './src/components/Bananas';
+import {
+  rr,
+  skill,
+  move,
+  minimalist
+} from './src/routines';
 import styles from './src/styles';
 
 export default class App extends React.Component {
