@@ -7,13 +7,18 @@ import {
   Button,
   Alert
 } from 'react-native';
-import {
-  rr,
-  skill,
-  move,
-  minimalist
-} from './src/routines';
-import styles from './src/styles';
+import routines from './src/routines';
+import styles from './styles';
+
+const Routine = (props) => (
+  <View style = { styles.routineContainer }>
+    <Text style = { styles.label }>
+      {
+        props.label
+      }
+    </Text>
+  </View>
+)
 
 export default class App extends React.Component {
   constructor (props) {
@@ -23,38 +28,21 @@ export default class App extends React.Component {
     };
   }
 
-  _onPressButton () {
-    Alert.alert('You tapped the button!');
-  }
-
   render () {
     return (
       <View style = { styles.container }>
-        <View>
-          <Text style = { styles.text }>PROJECT MOVE</Text>
-          <TextInput
-              placeholder  = 'Type here to type something'
-              onChangeText = { (text) => this.setState({ text }) }
-          />
-          <Text style = { styles.input }>
-            {
-              this.state.text
-                .split(' ')
-                .map((word) => word && '🍕')
-                .join(' ')
-            }
-          </Text>
-        </View>
-        <View style = { styles.button }>
-          <Button
-            onPress = { this._onPressButton }
-            title   = '🍕'
-          />
-        </View>
+        <Text style = { styles.text }>
+          PROJECT MOVE
+        </Text>
+        {
+          Object.entries(routines).map((routine, i) => (
+            <Routine
+              label = { routine[0] }
+              key   = { i }
+            />
+          ))
+        }
       </View>
-
-
-
     );
   }
-}
+};

@@ -1,5 +1,12 @@
 // ROUTINES
-export { default as rr } from "./rr";
-export { default as skill } from "./skill";
-export { default as minimalist } from "./minimalist";
-export { default as move } from "./move";
+import rr from './rr';
+import minimalist from './minimalist';
+import skill from './skill';
+import move from './move';
+
+export default {
+  'The Recommended Routine' : rr,
+  'The Minimalist Routine'  : minimalist,
+  'Skill Day'               : skill,
+  'Move'                    : move
+};
