@@ -27,3 +27,5 @@
 * Combine pairs and auto swipe to the next set within a pair?
 * Progression tracker for pairs to handle the timer between sets....
 * Barebones view of each routine to scroll through using SectionList
+* Timer flashes when you get close to 0
+* Timer gets bigger when you get get close to 0
